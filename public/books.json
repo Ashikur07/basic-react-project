@@ -1,0 +1,146 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.ibb.co/cF5qPjq/tim-alex-x-G5-VJW-7-Bio-unsplash.jpg",
+        "review": "A masterpiece of American literature, The Great Gatsby is a timeless classic that delves into the intricacies of the American Dream. Set amidst the opulence and decadence of the Roaring Twenties, Fitzgerald paints a vivid portrait of Jay Gatsby, a mysterious millionaire who throws extravagant parties.",
+        "totalPages": 180,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": [
+            "Classic",
+            "Romance"
+        ],
+        "publisher": "Scribner",
+        "yearOfPublishing": 1925
+    },
+    {
+        "bookId": 2,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://i.ibb.co/NjW5v3d/20.jpg",
+        "review": "A powerful story that addresses themes of racial injustice and moral growth, To Kill a Mockingbird is a timeless classic. Set in the fictional town of Maycomb, Alabama, during the Great Depression, the novel follows young Scout Finch as she learns about empathy, courage, and the complexities of human nature.",
+        "totalPages": 281,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": [
+            "Classic",
+            "Social-Issues"
+        ],
+        "publisher": "J. B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "bookId": 3,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://i.ibb.co/1Tf9xDj/surja-sen-das-raj-Vi-Mr-Mawjj7s-unsplash.jpg",
+        "review": "A dystopian masterpiece that explores themes of surveillance, propaganda, and totalitarianism, 1984 remains as relevant today as when it was first published. Orwell's vision of a totalitarian regime where Big Brother watches every move of its citizens serves as a cautionary tale about the dangers of unchecked government power.",
+        "totalPages": 328,
+        "rating": 4.7,
+        "category": "Fiction",
+        "tags": [
+            "Dystopian",
+            "Political"
+        ],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": 4,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://i.ibb.co/42BRBGX/morgan-housel-a-Z-Mm-Sm-Acjg-unsplash.jpg",
+        "review": "A timeless coming-of-age novel, The Catcher in the Rye follows disillusioned teenager Holden Caulfield as he navigates the challenges of adolescence and adulthood. Salinger's portrayal of Holden's alienation and search for authenticity resonates with readers of all generations, making this a classic of American literature.",
+        "totalPages": 224,
+        "rating": 4.3,
+        "category": "Fiction",
+        "tags": [
+            "Coming-of-Age",
+            "Literary"
+        ],
+        "publisher": "Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": 5,
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "https://i.ibb.co/ysRfgKM/zoe-Lmlo-Xgqz-UFY-unsplash.jpg",
+        "review": "A classic romance novel with wit and charm, Pride and Prejudice remains one of Jane Austen's most beloved works. Set in the English countryside during the Regency era, the novel follows the tumultuous relationship between the independent Elizabeth Bennet and the enigmatic Mr. Darcy.",
+        "totalPages": 279,
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": [
+            "Romance",
+            "Satire"
+        ],
+        "publisher": "T. Egerton, Whitehall",
+        "yearOfPublishing": 1813
+    },
+    {
+        "bookId": 6,
+        "bookName": "The Hobbit",
+        "author": "https://i.ibb.co/MkDWbVz/zia-king-S7-RCVK2-PEhk-unsplash.jpg",
+        "image": "https://i.ibb.co/wC6JCgj/6.png",
+        "review": "An enchanting tale of adventure and heroism, The Hobbit introduces readers to the fantastical world of Middle-earth. Bilbo Baggins, a reluctant hobbit, embarks on a perilous journey to reclaim a lost treasure guarded by the fearsome dragon Smaug. Along the way, he encounters trolls, elves, and other mythical creatures.",
+        "totalPages": 310,
+        "rating": 4.9,
+        "category": "Fantasy",
+        "tags": [
+            "Adventure",
+            "Quest"
+        ],
+        "publisher": "Allen & Unwin",
+        "yearOfPublishing": 1937
+    },
+    {
+        "bookId": 7,
+        "bookName": "the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "image": "https://i.ibb.co/L9WPqY0/tim-alex-c-MQn3-BSVp-Y-unsplash.jpg",
+        "review": "The magical journey begins with Harry Potter and the Sorcerer's Stone, the first installment in J.K. Rowling's beloved series. Follow young Harry as he discovers his magical heritage and embarks on a thrilling adventure at Hogwarts School of Witchcraft and Wizardry.",
+        "totalPages": 309,
+        "rating": 4.7,
+        "category": "Fantasy",
+        "tags": [
+            "Magic",
+            "Young_Adult"
+        ],
+        "publisher": "Bloomsbury",
+        "yearOfPublishing": 1997
+    },
+    {
+        "bookId": 8,
+        "bookName": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "image": "https://i.ibb.co/HN4vXBj/thought-catalog-Xv-Mi-IGJFKwc-unsplash-1.jpg",
+        "review": "A gripping dystopian tale of survival and rebellion, The Hunger Games introduces readers to the brutal world of Panem. In a society divided into districts, Katniss Everdeen volunteers to compete in the annual Hunger Games, where tributes fight to the death for the entertainment of the Capitol.",
+        "totalPages": 374,
+        "rating": 4.4,
+        "category": "Science Fiction",
+        "tags": [
+            "Dystopian",
+            "Adventure"
+        ],
+        "publisher": "Scholastic ",
+        "yearOfPublishing": 2008
+    },
+    {
+        "bookId": 9,
+        "bookName": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "image": "https://i.ibb.co/jLF2xD2/fauzan-ardhi-e-5-Die-Y8snc-unsplash.jpg",
+        "review": "An intriguing mystery thriller that blends art, history, and conspiracy, The Da Vinci Code keeps readers on the edge of their seats. When Harvard symbologist Robert Langdon is drawn into a murder investigation, he uncovers a trail of secrets that lead to a shocking revelation.",
+        "totalPages": 454,
+        "rating": 4.2,
+        "category": "Thriller",
+        "tags": [
+            "Mystery",
+            "Conspiracy"
+        ],
+        "publisher": "Doubleday",
+        "yearOfPublishing": 2003
+    }
+]
